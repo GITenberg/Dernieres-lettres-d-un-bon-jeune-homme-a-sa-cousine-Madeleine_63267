@@ -1,0 +1,32 @@
+_repo: Dernieres-lettres-d-un-bon-jeune-homme-a-sa-cousine-Madeleine_63267
+_version: 0.0.1
+creator:
+  author:
+    agent_name: About, Edmond
+    aliases:
+    - Avout, Edmondos
+    - About, Edmond Francois Valentin
+    - Abu, Edmond
+    - About, Edmond François Valentin
+    - About, E. (Edmond)
+    - Ampou, Edmondos
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '5182'
+    url: http://www.gutenberg.org/2009/agents/5182
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edmond_François_Valentin_About
+    - https://fr.wikipedia.org/wiki/Edmond_About
+description: ''
+gutenberg_issued: '2020-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63267'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Dernières lettres d'un bon jeune homme à sa cousine Madeleine
+url: http://www.gutenberg.org/ebooks/63267
